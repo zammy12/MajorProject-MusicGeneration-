@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  8 14:40:34 2020
-
-@author: zammy
-"""
 
 
 import os
