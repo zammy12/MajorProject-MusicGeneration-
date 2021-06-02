@@ -9,11 +9,11 @@ __Task__: Our task here is to take some existing music data then train a model u
 
 __We took Jigs and Hornpipes:__
 
-## How to run the project.
-# How to train the model.
+# How to run the project.
+## How to train the model.
 In order to run the project just run the file " Music_Train.py"
 You can also load weights which are in the file" Data2/Model_Weights/". There are total 9 weight files over there. Each weight file represents the epoch number.  
-# How to Generate Music Sequence
+## How to generate music sequence.
 Once the model is defined and weights are calculated then run "Music_Generate.py" file. 
 
 ## Prerequisites
